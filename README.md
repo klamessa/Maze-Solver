@@ -11,9 +11,6 @@ Modify and customize the code to fit your specific maze-solving needs or experim
 **Usage:**
 The MyMaze class includes usage examples in its main method. You can run these examples to see how the maze generation and solving algorithms function. Additionally, you can use the provided classes as a foundation for building your maze-solving solutions.
 
-**Contributions:**
-Feel free to contribute to this project by suggesting improvements, reporting issues, or submitting your own maze-solving algorithms. Together, we can make maze-solving more efficient and enjoyable!
-
 **License:**
 This project is associated with the University of Minnesota's Department of Computer Science and Computer Engineering
 
